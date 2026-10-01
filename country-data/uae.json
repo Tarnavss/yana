@@ -1,0 +1,31 @@
+{
+  "slug": "uae",
+  "image": "uae.webp",
+  "ru": {
+    "h1": "Luxury Отдых в ОАЭ",
+    "subtitle": "Дубай будущего, архитектурные иконы, лучшие отели мира и блеск Персидского залива — город, который всегда на шаг впереди",
+    "title": "Luxury-отдых в ОАЭ | Yana Luxury Travel",
+    "description": "Индивидуальный отдых в ОАЭ: Дубай, Абу-Даби, Рас-эль-Хайма, пляжные курорты, пустыня и маршруты с учётом сезона.",
+    "form_heading": "Путешествия, созданные специально для вас",
+    "form_intro": "Оставьте контактные данные — ваш менеджер уточнит пожелания и подготовит предложение.",
+    "form_button": "Получить предложение"
+  },
+  "ua": {
+    "h1": "Luxury-відпочинок в ОАЕ",
+    "subtitle": "Дубай майбутнього, архітектурні ікони, найкращі готелі світу та блиск Перської затоки — місто, що завжди на крок попереду",
+    "title": "Luxury-відпочинок в ОАЕ | Yana Luxury Travel",
+    "description": "Індивідуальний відпочинок в ОАЕ: Дубай, Абу-Дабі, Рас-ель-Хайма, пляжні курорти, пустеля та маршрути з урахуванням сезону.",
+    "form_heading": "Подорожі, створені спеціально для вас",
+    "form_intro": "Залиште контактні дані — ваш менеджер уточнить побажання та підготує пропозицію.",
+    "form_button": "Отримати пропозицію"
+  },
+  "en": {
+    "h1": "Luxury holidays in the UAE",
+    "subtitle": "Dubai reimagines the future with architectural icons, extraordinary hotels and the shimmering Arabian Gulf — a city always one step ahead",
+    "title": "Luxury Holidays in the UAE | Yana Luxury Travel",
+    "description": "Tailor-made UAE holidays: choose Dubai, Abu Dhabi or Ras Al Khaimah, beach resorts, desert stays and a route suited to the season.",
+    "form_heading": "Journeys created just for you",
+    "form_intro": "Leave your contact details — your travel manager will discuss your preferences and prepare a tailored proposal.",
+    "form_button": "Request a proposal"
+  }
+}

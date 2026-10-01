@@ -1,0 +1,174 @@
+{
+  "resorts": [
+    {
+      "slug": "alps/courchevel",
+      "parent_collection": "alps",
+      "image": "alps-courchevel.webp",
+      "ru": {
+        "h1": "Luxury-отдых в Куршевеле",
+        "subtitle": "Дворцы-отели, роскошные шале, высокая гастрономия и легендарные склоны Трёх Долин"
+      },
+      "ua": {
+        "h1": "Luxury-відпочинок у Куршевелі",
+        "subtitle": "Палаци-готелі, розкішні шале, висока гастрономія та легендарні схили Трьох Долин"
+      },
+      "en": {
+        "h1": "Luxury holidays in Courchevel",
+        "subtitle": "Palace hotels, luxurious chalets, fine dining and the legendary slopes of Les 3 Vallées"
+      }
+    },
+    {
+      "slug": "alps/megeve",
+      "parent_collection": "alps",
+      "image": "alps-megeve.webp",
+      "ru": {
+        "h1": "Luxury-отдых в Межеве",
+        "subtitle": "Роскошные шале, рестораны высокой гастрономии и утончённый французский art de vivre у подножия Монблана"
+      },
+      "ua": {
+        "h1": "Luxury-відпочинок у Межеві",
+        "subtitle": "Розкішні шале, ресторани високої гастрономії та витончений французький art de vivre біля Монблану"
+      },
+      "en": {
+        "h1": "Luxury holidays in Megève",
+        "subtitle": "Luxury chalets, fine dining and the refined French art de vivre beneath Mont Blanc"
+      }
+    },
+    {
+      "slug": "alps/st-moritz",
+      "parent_collection": "alps",
+      "image": "alps-st-moritz.webp",
+      "ru": {
+        "h1": "Luxury-отдых в Санкт-Морице",
+        "subtitle": "Легендарные гранд-отели, светские события, безупречные склоны и зимний блеск Санкт-Морица"
+      },
+      "ua": {
+        "h1": "Luxury-відпочинок у Санкт-Моріці",
+        "subtitle": "Легендарні гранд-готелі, світські події, бездоганні схили та зимовий блиск Сент-Моріца"
+      },
+      "en": {
+        "h1": "Luxury holidays in St. Moritz",
+        "subtitle": "Legendary grand hotels, celebrated events, immaculate slopes and the winter glamour of St. Moritz"
+      }
+    },
+    {
+      "slug": "alps/gstaad",
+      "parent_collection": "alps",
+      "image": "alps-gstaad.webp",
+      "ru": {
+        "h1": "Luxury-отдых в Гштааде",
+        "subtitle": "Гранд-отели, роскошные шале, светская приватность и аристократическое очарование Гштаада"
+      },
+      "ua": {
+        "h1": "Luxury-відпочинок у Гштааді",
+        "subtitle": "Гранд-готелі, розкішні шале, світська приватність та аристократичний шарм Гштаада"
+      },
+      "en": {
+        "h1": "Luxury holidays in Gstaad",
+        "subtitle": "Grand hotels, luxury chalets, discreet society and the aristocratic charm of Gstaad"
+      }
+    },
+    {
+      "slug": "alps/zermatt",
+      "parent_collection": "alps",
+      "image": "alps-zermatt.webp",
+      "ru": {
+        "h1": "Luxury-отдых в Церматте",
+        "subtitle": "Величие Маттерхорна, легендарные отели, высокая гастрономия и безупречные высокогорные склоны"
+      },
+      "ua": {
+        "h1": "Luxury-відпочинок у Церматті",
+        "subtitle": "Велич Маттерхорна, легендарні готелі, висока гастрономія та бездоганні високогірні схили"
+      },
+      "en": {
+        "h1": "Luxury holidays in Zermatt",
+        "subtitle": "The majesty of the Matterhorn, legendary hotels, fine dining and immaculate high-altitude slopes"
+      }
+    },
+    {
+      "slug": "alps/cortina",
+      "parent_collection": "alps",
+      "image": "alps-cortina.webp",
+      "ru": {
+        "h1": "Luxury-отдых в Кортине-д’Ампеццо",
+        "subtitle": "Величие Доломитов, элегантные отели, высокая гастрономия и неповторимый итальянский стиль Кортины"
+      },
+      "ua": {
+        "h1": "Luxury-відпочинок у Кортіні-д’Ампеццо",
+        "subtitle": "Велич Доломітів, елегантні готелі, висока гастрономія та неповторний італійський стиль Кортини"
+      },
+      "en": {
+        "h1": "Luxury holidays in Cortina d’Ampezzo",
+        "subtitle": "The grandeur of the Dolomites, elegant hotels, fine dining and Cortina’s unmistakable Italian style"
+      }
+    },
+    {
+      "slug": "alps/alta-badia",
+      "parent_collection": "alps",
+      "image": "alps-alta-badia.webp",
+      "ru": {
+        "h1": "Luxury-отдых в Альта-Бадии",
+        "subtitle": "Величественные Доломиты, легендарная Sellaronda, уютные шале и гастрономия высочайшего уровня"
+      },
+      "ua": {
+        "h1": "Luxury-відпочинок в Альта-Бадії",
+        "subtitle": "Величні Доломіти, легендарна Sellaronda, камерні шале та гастрономія найвищого рівня"
+      },
+      "en": {
+        "h1": "Luxury holidays in Alta Badia",
+        "subtitle": "Majestic Dolomites, the legendary Sellaronda, intimate chalets and exceptional gastronomy"
+      }
+    },
+    {
+      "slug": "alps/verbier",
+      "parent_collection": "alps",
+      "image": "alps-verbier.webp",
+      "ru": {
+        "h1": "Luxury-отдых в Вербье",
+        "subtitle": "Вербье — спуски с Мон-Фора, легендарный фрирайд Четырёх Долин, шале на солнечных склонах и яркие вечера. Неиссякаемая энергия большого альпийского курорта."
+      },
+      "ua": {
+        "h1": "Luxury-відпочинок у Верб’є",
+        "subtitle": "Верб’є — Спуски з Мон-Фора, легендарний фрирайд Чотирьох Долин, шале на сонячних схилах і яскраві вечори — Верб’є з невичерпною енергією великого альпійського курорту."
+      },
+      "en": {
+        "h1": "Luxury holidays in Verbier",
+        "subtitle": "Verbier has the boundless energy of a great Alpine resort: descents from Mont Fort, legendary off-piste skiing across the Four Valleys, chalets on sunlit slopes and evenings as spirited as the days."
+      }
+    },
+    {
+      "slug": "alps/val-disere",
+      "parent_collection": "alps",
+      "image": "alps-val-disere.webp",
+      "ru": {
+        "h1": "Luxury-отдых в Валь-д’Изере",
+        "subtitle": "Олимпийские трассы Бельварда, каменные шале и рестораны старой деревни — Валь-д’Изер в ритме большой лыжной классики."
+      },
+      "ua": {
+        "h1": "Luxury-відпочинок у Валь-д’Ізері",
+        "subtitle": "Олімпійські траси Бельварда, кам’яні шале й ресторани старого селища — Валь-д’Ізер у ритмі великої лижної класики."
+      },
+      "en": {
+        "h1": "Luxury holidays in Val d’Isère",
+        "subtitle": "Bellevarde’s Olympic pistes, stone chalets and the restaurants of the old village define Val d’Isère’s enduring ski style."
+      }
+    },
+    {
+      "slug": "alps/chamonix",
+      "parent_collection": "alps",
+      "image": "alps-chamonix.webp",
+      "ru": {
+        "h1": "Luxury-отдых в Шамони",
+        "subtitle": "Монблан над городом, подъём на Эгюий-дю-Миди и легендарная Белая долина — Шамони для тех, кого манят большие горы."
+      },
+      "ua": {
+        "h1": "Luxury-відпочинок у Шамоні",
+        "subtitle": "Монблан над містом, підйом на Егюї-дю-Міді й легендарна Біла долина — Шамоні для тих, кого ваблять великі гори."
+      },
+      "en": {
+        "h1": "Luxury holidays in Chamonix",
+        "subtitle": "Mont Blanc above the town, the Aiguille du Midi and the legendary Vallée Blanche: Chamonix in the realm of high mountains."
+      }
+    }
+  ]
+}

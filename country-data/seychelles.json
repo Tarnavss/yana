@@ -1,0 +1,31 @@
+{
+  "slug": "seychelles",
+  "image": "seychelles.webp",
+  "ru": {
+    "h1": "Luxury Отдых на Сейшелах",
+    "subtitle": "Гранитные бухты Ла-Дига, виллы у океана и тропические сады Маэ",
+    "title": "Luxury-отдых на Сейшелах | Yana Luxury Travel",
+    "description": "Индивидуальный отдых на Сейшелах: выбор острова, отеля и пляжа, маршруты между островами и трансферы с учётом сезона.",
+    "form_heading": "Путешествия, созданные специально для вас",
+    "form_intro": "Оставьте контактные данные — ваш менеджер уточнит пожелания и подготовит предложение.",
+    "form_button": "Получить предложение"
+  },
+  "ua": {
+    "h1": "Luxury-відпочинок на Сейшелах",
+    "subtitle": "Гранітні бухти Ла-Діга, вілли над океаном та тропічні сади Мае",
+    "title": "Luxury-відпочинок на Сейшелах | Yana Luxury Travel",
+    "description": "Індивідуальний відпочинок на Сейшелах: вибір острова, готелю й пляжу, маршрути між островами та трансфери з урахуванням сезону.",
+    "form_heading": "Подорожі, створені спеціально для вас",
+    "form_intro": "Залиште контактні дані — ваш менеджер уточнить побажання та підготує пропозицію.",
+    "form_button": "Отримати пропозицію"
+  },
+  "en": {
+    "h1": "Luxury holidays in the Seychelles",
+    "subtitle": "Granite coves of La Digue, oceanfront villas and the tropical gardens of Mahé",
+    "title": "Luxury Holidays in the Seychelles | Yana Luxury Travel",
+    "description": "Tailor-made holidays in the Seychelles, with the right island, resort and beach, seamless transfers and itineraries for the season.",
+    "form_heading": "Journeys created just for you",
+    "form_intro": "Leave your contact details — your travel manager will discuss your preferences and prepare a tailored proposal.",
+    "form_button": "Request a proposal"
+  }
+}

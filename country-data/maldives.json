@@ -1,0 +1,31 @@
+{
+  "slug": "maldives",
+  "image": "maldives.webp",
+  "ru": {
+    "h1": "Luxury Отдых на Мальдивах",
+    "subtitle": "Частные острова, виллы над бирюзовыми лагунами и безупречный мир, где океан задаёт ритм каждому дню",
+    "title": "Luxury-отдых на Мальдивах | Yana Luxury Travel",
+    "description": "Индивидуальный отдых на Мальдивах: частные острова, виллы над лагунами и подбор курорта с учётом ваших пожеланий.",
+    "form_heading": "Путешествия, созданные специально для вас",
+    "form_intro": "Оставьте контактные данные — ваш менеджер уточнит пожелания и подготовит предложение.",
+    "form_button": "Получить предложение"
+  },
+  "ua": {
+    "h1": "Luxury-відпочинок на Мальдівах",
+    "subtitle": "Приватні острови, вілли над бірюзовими лагунами та бездоганний світ, де океан задає ритм кожному дню",
+    "title": "Luxury-відпочинок на Мальдівах | Yana Luxury Travel",
+    "description": "Індивідуальний відпочинок на Мальдівах: приватні острови, вілли над лагунами та добір курорту відповідно до ваших побажань.",
+    "form_heading": "Подорожі, створені спеціально для вас",
+    "form_intro": "Залиште контактні дані — ваш менеджер уточнить побажання та підготує пропозицію.",
+    "form_button": "Отримати пропозицію"
+  },
+  "en": {
+    "h1": "Luxury holidays in the Maldives",
+    "subtitle": "Private islands, overwater villas and endless shades of blue — a world shaped entirely by the Indian Ocean",
+    "title": "Luxury Holidays in the Maldives | Yana Luxury Travel",
+    "description": "Tailor-made holidays in the Maldives, with private islands, overwater villas and resorts selected around your preferences.",
+    "form_heading": "Journeys created just for you",
+    "form_intro": "Leave your contact details — your travel manager will discuss your preferences and prepare a tailored proposal.",
+    "form_button": "Request a proposal"
+  }
+}

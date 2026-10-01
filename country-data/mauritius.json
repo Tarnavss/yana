@@ -1,0 +1,31 @@
+{
+  "slug": "mauritius",
+  "image": "mauritius.webp",
+  "ru": {
+    "h1": "Luxury-отдых на Маврикии",
+    "subtitle": "Легендарные курорты, белоснежные пляжи, гольф у океана и безмятежный ритм тропического острова",
+    "title": "Luxury-отдых на Маврикии | Yana Luxury Travel",
+    "description": "Индивидуальный отдых на Маврикии: пляжные курорты, виллы, гольф, природа и продуманная организация путешествия с учётом сезона.",
+    "form_heading": "Путешествия, созданные специально для вас",
+    "form_intro": "Оставьте контактные данные — ваш менеджер уточнит пожелания и подготовит предложение.",
+    "form_button": "Получить предложение"
+  },
+  "ua": {
+    "h1": "Luxury-відпочинок на Маврикії",
+    "subtitle": "Легендарні курорти, білосніжні пляжі, гольф біля океану та безтурботний ритм тропічного острова",
+    "title": "Luxury-відпочинок на Маврикії | Yana Luxury Travel",
+    "description": "Індивідуальний відпочинок на Маврикії: пляжні курорти, вілли, гольф, природа та продумана організація подорожі з урахуванням сезону.",
+    "form_heading": "Подорожі, створені спеціально для вас",
+    "form_intro": "Залиште контактні дані — ваш менеджер уточнить побажання та підготує пропозицію.",
+    "form_button": "Отримати пропозицію"
+  },
+  "en": {
+    "h1": "Luxury holidays in Mauritius",
+    "subtitle": "Iconic resorts, white-sand beaches, oceanfront golf and the effortless rhythm of island life",
+    "title": "Luxury Holidays in Mauritius | Yana Luxury Travel",
+    "description": "Tailor-made Mauritius holidays with beach resorts, private villas, golf and nature experiences, planned around your preferred season and travel style.",
+    "form_heading": "Journeys created just for you",
+    "form_intro": "Leave your contact details — your travel manager will discuss your preferences and prepare a tailored proposal.",
+    "form_button": "Request a proposal"
+  }
+}
