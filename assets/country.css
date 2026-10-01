@@ -1,0 +1,45 @@
+/* Country pages share the home page header, footer, forms and brand styles. */
+.country-hero{position:relative;min-height:756px;height:calc(min(69vw,700px) + 216px);max-height:none;padding-top:216px;display:flex;align-items:center;color:#fff;background:#173b43;isolation:isolate}
+.country-hero-picture,.country-hero-shade{position:absolute;inset:0;z-index:-1}
+.country-hero-picture img{width:100%;height:100%;object-fit:cover;object-position:center 50%}
+.country-hero-shade{background:linear-gradient(0deg,rgba(0,23,32,.56),rgba(0,23,32,.08) 65%)}
+.country-hero .container{width:100%;text-align:center}
+.country-hero h1{font:400 clamp(38px,5.4vw,73px)/1.06 Garamond,"Cormorant Garamond",Georgia,serif!important;letter-spacing:0;text-transform:none;margin:0 auto;max-width:900px;color:#fff}
+.country-intro{padding:80px 0 72px;text-align:center;background:#fff}
+.country-intro h2{font:400 36px/1.3 Garamond,"Cormorant Garamond",Georgia,serif!important;letter-spacing:0;text-transform:none;max-width:none;margin:0 auto;color:#1d2528;text-wrap:balance}
+.country-contact{border-top:1px solid #ededed;background:#fff;padding:71px 0 76px}
+.country-contact .section-head h2{font:400 clamp(29px,3vw,42px)/1.2 Garamond,"Cormorant Garamond",Georgia,serif!important;letter-spacing:0;text-transform:none}
+.country-contact .section-head p{font-size:15px}
+.collection-destinations{background:#fff;padding:72px 0 82px;border-top:1px solid #ededed}
+.collection-destinations>.container{max-width:none;padding:0}
+.collection-destinations .section-head{margin-bottom:32px;padding:0 20px}
+.collection-destinations .dest-grid{grid-template-columns:repeat(5,minmax(0,1fr));grid-template-rows:repeat(2,255px)}
+.collection-destinations .destination:nth-child(n){grid-column:auto;grid-row:auto}
+.collection-destinations .destination .text{top:50%;left:50%;bottom:auto;transform:translate(-50%,-50%);text-align:center;padding:18px}
+.collection-destinations .destination:after{background:linear-gradient(0deg,rgba(0,22,30,.36),rgba(0,22,30,.22))}
+.country-seo{border-top:1px solid #ededed;padding:78px 0 95px;background:#fff}
+.country-seo-content{width:100%;max-width:var(--max);padding:0 34px;margin:auto;color:#343c3e;font-size:16px;line-height:1.85}
+.country-seo-content h2{font-size:36px;margin:0 0 26px;color:#1d2528}
+.country-seo-content h3{font-size:26px;margin:38px 0 14px;color:#1d2528}
+.country-seo-content p{margin:0 0 21px}
+.country-seo-content ul{margin:0 0 24px;padding-left:25px}
+.country-seo-content li{padding-left:3px;margin:0 0 5px}
+.country-seo-pending{color:#657073;font-size:14px}
+.country-back{display:flex;justify-content:center;margin-top:55px}
+.country-back .button.dark{min-width:190px;background:#000;border-color:#000;color:#fff}
+.country-back .button.dark:hover{background:#272727;border-color:#272727;color:#fff}
+@media(max-width:1050px){.collection-destinations .dest-grid{grid-template-columns:repeat(2,minmax(0,1fr));grid-template-rows:none;grid-auto-rows:275px}}
+@media(max-width:640px){
+  .country-hero{height:calc(65svh + 146px);min-height:586px;max-height:796px;padding-top:146px}
+  .country-hero-picture img{object-position:58% center}
+  .country-hero h1{font-size:clamp(36px,9vw,48px)}
+  .country-intro{padding:57px 0 54px}
+  .country-intro h2{font-size:36px}
+  .country-contact{padding:58px 0 62px}
+  .collection-destinations{padding:58px 0 66px}
+  .collection-destinations .dest-grid{grid-template-columns:1fr;grid-auto-rows:290px}
+  .country-seo{padding:60px 0 74px}
+  .country-seo-content{padding:0 19px}
+  .country-seo-content h2{font-size:30px}
+  .country-seo-content h3{font-size:24px}
+}
